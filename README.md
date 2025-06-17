@@ -89,15 +89,3 @@ This assistant is designed to help students with:
 * Note-taking or PDF summarization
 * Voice input support
 * Local memory for follow-ups
-
----
-
-## 📄 License
-
-This project is open-source and free to use for educational purposes.
-
----
-
-## ✨ Credits
-
-Made with 💙 using [Chainlit](https://www.chainlit.io/) and [OpenRouter](https://openrouter.ai/)
