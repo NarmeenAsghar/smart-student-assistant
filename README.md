@@ -35,7 +35,7 @@ This assistant is designed to help students with:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/smart-student-assistant.git
+   git clone https://github.com/NarmeenAsghar/smart-student-assistant.git
    cd smart-student-assistant
    ```
 
